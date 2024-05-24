@@ -55,18 +55,18 @@ body {
 }
 
 .arduino {
-    width: 40%;
+    width: 20%;
     margin-left: 30px;
     margin-right: 50px;
 }
 
 .protoboard {
-    width: 40%;
+    width: 20%;
     margin-right: 50px;
 }
 
 .multimetro {
-    width: 40%;
+    width: 20%;
     margin-right: 30px;
 }
 
@@ -78,12 +78,12 @@ body {
 }
 
 .sensor-LDR {
-    width: 40%;
+    width: 20%;
     margin-right: 50px;
 }
 
 .led {
-    width: 40%;
+    width: 20%;
     margin-right: 50px;
 }
 
