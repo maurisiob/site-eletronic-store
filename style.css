@@ -96,3 +96,19 @@ p {
     justify-content: center;
     padding: 20px;
 }
+
+.preco-1{
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.preco-2{
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 50px;
+    text-align: center;
+}
